@@ -12,11 +12,11 @@ EGU2022
 
 
 * Sensitivity of Change-Point Detection and Trend Estimates to GNSS IWV Time Series Properties. 
-Khanh Ninh Nguyen, Annarosa Quarello, Olivier Bock, Emilie Lebarbier.   
+Khanh Ninh Nguyen, Annarosa Quarello, Olivier Bock, Emilie Lebarbier     
 mdpi.com 
 
 * Sensitivity of segmentation of GNSS IWV time series and trend estimates to data properties. 
-Khanh Ninh Nguyen, Annarosa Quarello, Olivier Bock, Emilie Lebarbier.  
+Khanh Ninh Nguyen, Annarosa Quarello, Olivier Bock, Emilie Lebarbier    
 EGU2021 
 
 
