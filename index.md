@@ -22,8 +22,8 @@ EGU2021
 # Education 
 
 - **IPGP**, Geodesy, Ph.D student 
-- Université Paris Cité, master Fundamental of Remote Sensing
-- Université Paris Saclay, master Water, Air, Pollution and Energies 
+- **Université Paris Cité**, M.Sc. Fundamental of Remote Sensing
+- **Université Paris Saclay**, M.Sc. Water, Air, Pollution and Energies 
 
 <!-- ### Markdown
 
