@@ -6,13 +6,14 @@
 
 # Publications
 
-A new method for the attribution of breakpoints in segmentation of IWV difference time series
-
-Khanh Ninh Nguyen, Olivier Bock, Emilie Lebarbier
-
+- A new method for the attribution of breakpoints in segmentation of IWV difference time series.  
+Khanh Ninh Nguyen, Olivier Bock, Emilie Lebarbier  
 EGU2022 
 
-- 09/2021 mdpi.com Sensitivity of Change-Point Detection and Trend Estimates to GNSS IWV Time Series Properties
+
+Sensitivity of Change-Point Detection and Trend Estimates to GNSS IWV Time Series Properties
+
+- 09/2021 mdpi.com 
 - 03/2022 EGU2021 Sensitivity of segmentation of GNSS IWV time series and trend estimates to data properties
 
 
