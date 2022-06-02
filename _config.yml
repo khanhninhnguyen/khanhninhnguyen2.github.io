@@ -4,5 +4,5 @@ plugins:
 title: Nguyen Khanh Ninh
 description: Bookmark this to keep an eye on my project updates!
 show_downloads: false
-
+btn: false
 is_project_page: false
